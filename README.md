@@ -2,8 +2,9 @@
 
 
 
-- 🔭 Hoje estou trabalhando como freelancer (auditorias e apresentação de resultados)
+- 🔭 Trabalhando como freelancer (auditorias e apresentação de resultados)
 - 🌱 Estudando engenharia de requisitos + Quality Assurance + Iniciando Java
+- ✉️ Contato: francisco.mtins@gmail.com
 
 <div> 
 
