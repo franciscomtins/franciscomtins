@@ -3,7 +3,7 @@
 
 
 - 🔭 Trabalhando como freelancer (auditorias e apresentação de resultados)
-- 🌱 Estudando engenharia de requisitos + Quality Assurance + Iniciando Java
+- 🌱 Estudando engenharia de requisitos + Quality Assurance + Iniciando estudos em desenvolvimento 
 - ✉️ Contato: francisco.mtins@gmail.com
 
 <div> 
