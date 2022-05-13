@@ -3,7 +3,7 @@
 
 
 - 🔭 Analista de testes
-- 🌱 Estudando engenharia de requisitos + Quality Assurance + Iniciando estudos em desenvolvimento 
+- 🌱 Estudando Quality Assurance + Desenvolvimento 
 - ✉️ Contato: francisco.mtins@gmail.com
 
 <div> 
