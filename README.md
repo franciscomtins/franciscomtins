@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Trabalhando como freelancer (auditorias e apresentação de resultados)
+- 🔭 Analista de testes
 - 🌱 Estudando engenharia de requisitos + Quality Assurance + Iniciando estudos em desenvolvimento 
 - ✉️ Contato: francisco.mtins@gmail.com
 
