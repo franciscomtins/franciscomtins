@@ -3,7 +3,7 @@
 
 
 - 🔭 Analista de testes
-- 🌱 Estudando Quality Assurance + Desenvolvimento 
+- 🌱 Quality Assurance + Desenvolvimento 
 - ✉️ Contato: francisco.mtins@gmail.com
 
 <div> 
